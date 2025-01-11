@@ -3,7 +3,7 @@ import java.util.Date;
 import java.util.List;
 
 class Garment {
-//    private String id;
+    private String id;
     private String name;
     private String description;
     private String size;
